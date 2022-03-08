@@ -1,6 +1,6 @@
 package day2;
 import java.util.Scanner;
-
+ 
 public class CalculateArea {
 
 	public static void main(String[] args) {

@@ -1,5 +1,5 @@
 package day2;
-
+ 
 public class Vehicle {
 	
 	int speed = 50;
