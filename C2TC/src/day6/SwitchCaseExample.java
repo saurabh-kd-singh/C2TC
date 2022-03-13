@@ -49,7 +49,7 @@ public class SwitchCaseExample {
 		
 		default : System.out.println("Invalid Month");
 		
-		
+		  
 		}
 		
 

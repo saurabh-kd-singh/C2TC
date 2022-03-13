@@ -23,5 +23,7 @@ public class PatternPrinting {
 	    sc.close();
 	 
 	}
+	
+	  
 
 }
